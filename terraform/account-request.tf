@@ -26,7 +26,7 @@ module "development_account" {
   }
 
   change_management_parameters = {
-    change_requested_by = var.owner
+    change_requested_by = "Dinesh Sharma"
     change_reason       = "Commissioning development account"
   }
 
