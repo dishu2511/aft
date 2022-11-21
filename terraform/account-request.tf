@@ -58,7 +58,7 @@ module "preprod_account" {
     "ABC:Owner"       = "Dinesh"
     "ABC:Division"    = "ENT"
     "ABC:Environment" = "preprod"
-    "ABC:CostCenter"  = "123456"
+    "ABC:CostCenter"  = "12345622343222"
     "ABC:Vended"      = "true"
     "ABC:DivCode"     = "102"
     "ABC:BUCode"      = "ABC003"
