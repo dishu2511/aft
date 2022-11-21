@@ -18,7 +18,7 @@ module "development_account" {
     "ABC:Owner"       = "Dinesh"
     "ABC:Division"    = "ENT"
     "ABC:Environment" = "development"
-    "ABC:CostCenter"  = "123456"
+    "ABC:CostCenter"  = "33333434"
     "ABC:Vended"      = "true"
     "ABC:DivCode"     = "102"
     "ABC:BUCode"      = "ABC003"
