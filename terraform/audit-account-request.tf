@@ -4,7 +4,7 @@ module "audit_account" {
 
   control_tower_parameters = {
     AccountEmail = "dineshsharma2511+aftaudit@gmail.com"
-    AccountName  = "audit"
+    AccountName  = "Audit"
     # Syntax for top-level OU
     ManagedOrganizationalUnit = "Security"
     # Syntax for nested OU
