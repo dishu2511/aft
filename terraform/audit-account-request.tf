@@ -6,7 +6,7 @@ module "audit_account" {
     AccountEmail = "dineshsharma2511+aftaudit@gmail.com"
     AccountName  = "audit"
     # Syntax for top-level OU
-    ManagedOrganizationalUnit = "workload"
+    ManagedOrganizationalUnit = "Security"
     # Syntax for nested OU
     # ManagedOrganizationalUnit = "Sandbox (ou-bal-bla)"
     SSOUserEmail     = "dineshsharma2511+aftaudit@gmail.com"
