@@ -9,9 +9,9 @@ module "audit_account" {
     ManagedOrganizationalUnit = "Security"
     # Syntax for nested OU
     # ManagedOrganizationalUnit = "Sandbox (ou-bal-bla)"
-    SSOUserEmail     = "dineshsharma2511+aftaudit@gmail.com"
-    SSOUserFirstName = "Dinesh"
-    SSOUserLastName  = "Sharma"
+    #SSOUserEmail     = "dineshsharma2511+aftaudit@gmail.com"
+    #SSOUserFirstName = "Dinesh"
+    #SSOUserLastName  = "Sharma"
   }
 
   account_tags = {
