@@ -62,7 +62,7 @@ module "preprod_account" {
     "ABC:Vended"      = "true"
     "ABC:DivCode"     = "102"
     "ABC:BUCode"      = "ABC003"
-    "ABC:Project"     = "123456"
+    #"ABC:Project"     = "123456"
   }
 
   change_management_parameters = {
